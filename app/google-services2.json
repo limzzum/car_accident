@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "806624671892",
+    "project_id": "maptest-174901",
+    "storage_bucket": "maptest-174901.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806624671892:android:804f92424287d225505c81",
+        "android_client_info": {
+          "package_name": "com.project.car_accident"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806624671892-5rsvhpkuo1p08s32a15ptg6p5rkpnfvg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.car_accident",
+            "certificate_hash": "3b14d07a8513a276c8ee92b3ae2e26e445652dfc"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL91jT7aHvU3xdMEiNk16Nc5GkeqDyaQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

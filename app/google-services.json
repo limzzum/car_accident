@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "739287183851",
+    "project_id": "caracc",
+    "storage_bucket": "caracc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739287183851:android:77f93cf30a980c48cde9ae",
+        "android_client_info": {
+          "package_name": "com.project.car_accident"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739287183851-sgosemqe239sl296vo3rfkvvn3jefohh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.car_accident",
+            "certificate_hash": "8cd262f80dbb630c9987bf29ba2c63b1bce15fc9"
+          }
+        },
+        {
+          "client_id": "739287183851-j7ekavbdjan2odlcdupkooihqqpa6ot1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUlL6UxKiqAUF8iIl6B4SRKGFGsWtXq5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739287183851-j7ekavbdjan2odlcdupkooihqqpa6ot1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
